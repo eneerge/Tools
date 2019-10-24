@@ -26,4 +26,10 @@ Professor Messer Security+ Training Course: https://www.youtube.com/playlist?lis
 Facebook uses own TLS? http://mailman.icsi.berkeley.edu/pipermail/zeek/2019-January/013874.html
 IDA Python Cheatsheet Disassembler Decompile: https://github.com/inforion/idapython-cheatsheet
 Data Forensics Incident Response DFIR Using MpCmdRun.exe: https://twitter.com/SwiftOnSecurity/status/1179595333246029824 / https://archive.fo/WJtZI
-
+How to start a Trigger Start windows service with Powershell without elevation / admin rights: https://www.lieben.nu/liebensraum/2016/10/how-to-start-a-trigger-start-windows-service-with-powershell-without-elevation-admin-rights/ / https://archive.fo/hTrhW
+2fa Bypass: https://gauravnarwani.com/two-factor-authentication-bypass/
+DIA Reading List: https://www.dia.mil/News/DIA-Directors-Reading-List/
+Open Source iOS Unpatchable Boot Rom Jailbreak: https://github.com/axi0mX/ipwndfu
+How the US Hacked ISIS: https://www.npr.org/2019/09/26/763545811/how-the-u-s-hacked-isis
+Bypassing Web Application Firewalls: https://github.com/davidson679/Bypass-Web-Application-Firewalls
+UAC Bypass Sysmon Detection: https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/blob/master/Privilege%20Escalation/Sysmon/Sysmon_T1088_UACBypass_config.xml
