@@ -1,13 +1,29 @@
 Becoming Virtually Untraceable: https://medium.com/@z3roTrust/becoming-virtually-untraceable-eps4-0-l33t-t3chn1qu3s-gif-6b8f19d828ea
 New to InfoSec: https://f0rb1dd3n.com/ir0nin
 
+Brute forcing dir/files: https://twitter.com/soaj1664ashar/status/1182953904511901696 / https://archive.fo/DfpjZ
 Chrome Password Graber: https://github.com/x899/chrome_password_grabber
-Detecting Kerberoasting: https://blogs.technet.microsoft.com/motiba/2018/02/23/detecting-kerberoasting-activity-using-azure-security-center/
+Detecting Kerberoasting: https://blogs.technet.microsoft.com/motiba/2018/02/23/detecting-kerberoasting-activity-using-azure-security-center / https://archive.fo/jR2YN
 Office 365 user enumeration: https://github.com/Raikia/UhOh365/blob/master/UhOh365.py
 Wordpress XMLRPC Bruteforcer: https://www.kitploit.com/2019/10/xmlrpc-bruteforcer-xmlrpc-brute-forcer.html
 Targetted Evil Twin / WPA2 Enterprise Attacks: https://github.com/s0lst1c3/eaphammer / http://solstice.sh/wireless/eaphammer/2019/09/10/eap-downgrade-attacks/
 UsoDLLLoader / Weaponizing privileged file writes with Windows Update Session: https://github.com/itm4n/UsoDllLoader
 Threat Detection/Hunting: https://github.com/0x4D31/awesome-threat-detection
-
-
+RDP Remote Desktop Protocol Honeypotting / NLBrute: https://www.wilbursecurity.com/2019/10/rdp-honeypotting/ / 
+Cracking passwords with UMLAUTS / unicode / german / ntlm hash: https://www.blackhillsinfosec.com/cracking-passwords-with-umlauts/
+General Information Security Primers: https://johnopdenakker.com/
+7 main cases for XSS: https://twitter.com/VishnuGadupudi/status/1184138040442097664
 A business Writing Primer: https://danielmiessler.com/study/business_writing/
+Open source alternative to Zapier: https://n8n.io/
+Social Engineer Toolkit: trustedsec.com
+Gophish Open Source Phishing Toolkit: https://github.com/gophish/gophish
+CredSniper / Phishing Site Generator: https://github.com/ustayready/CredSniper
+Reelphish 2fa Phishing: https://github.com/fireeye/ReelPhish
+HiddenEye Phishing: https://github.com/DarkSecDevelopers/HiddenEye
+Free Proxy List: https://github.com/a2u/free-proxy-list
+Modlishka HTTP Reverse Proxy for Pen testing / http poisoning / browser hijack: https://github.com/drk1wi/Modlishka
+Professor Messer Security+ Training Course: https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy
+Facebook uses own TLS? http://mailman.icsi.berkeley.edu/pipermail/zeek/2019-January/013874.html
+IDA Python Cheatsheet Disassembler Decompile: https://github.com/inforion/idapython-cheatsheet
+Data Forensics Incident Response DFIR Using MpCmdRun.exe: https://twitter.com/SwiftOnSecurity/status/1179595333246029824 / https://archive.fo/WJtZI
+
